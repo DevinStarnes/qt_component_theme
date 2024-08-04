@@ -49,5 +49,3 @@ headers.path=$$PREFIX/include
 headers.files=$$HEADERS
 target.path=$$PREFIX/lib
 INSTALLS += headers target
-
-DISTFILES +=
